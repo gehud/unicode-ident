@@ -241,7 +241,6 @@
 //! In contrast to binary search or the `ucd-trie` crate, performing lookups in
 //! this data structure is straight-line code with no need for branching.
 
-#![no_std]
 #![doc(html_root_url = "https://docs.rs/unicode-ident/1.0.22")]
 #![allow(
     clippy::doc_markdown,
